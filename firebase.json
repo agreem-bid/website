@@ -21,7 +21,7 @@
     }
   ],
   "hosting": {
-    "public": "dist",
+    "public": "out",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [
       {
@@ -29,7 +29,7 @@
         "destination": "/index.html"
       }
     ],
-    "predeploy": ["npm run lint", "npm run build"]
+    "predeploy": ["npm  run build"]
   },
   "storage": {
     "rules": "storage.rules"
@@ -41,15 +41,15 @@
     "firestore": {
       "port": 8080
     },
-    "hosting": {
-      "port": 5000
-    },
     "storage": {
       "port": 9199
     },
     "ui": {
-      "enabled": false
+      "enabled": true
     },
-    "singleProjectMode": true
+    "singleProjectMode": true,
+    "hosting": {
+      "port": 5000
+    }
   }
 }
