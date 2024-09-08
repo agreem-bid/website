@@ -1,1 +1,80 @@
-{}
+{
+  "../components/landingPage/AppleCardsCarousel.tsx -> @/components/landingPage/cardCarouselContent/SmartContracts": {
+    "id": 44352,
+    "files": [
+      "static/chunks/352.ef906ce3c9781361.js"
+    ]
+  },
+  "app/page.tsx -> @/components/landingPage/AppleCardsCarousel": {
+    "id": 56017,
+    "files": [
+      "static/chunks/648.fcc9752e8bfd1a39.js",
+      "static/chunks/17.3e7ea80cc44a826a.js"
+    ]
+  },
+  "app/page.tsx -> @/components/landingPage/BackgroundBoxesDemo": {
+    "id": 89474,
+    "files": [
+      "static/chunks/474.d28fde9c78b3ccc2.js"
+    ]
+  },
+  "app/page.tsx -> @/components/landingPage/FeaturesGrid": {
+    "id": 96076,
+    "files": [
+      "static/chunks/648.fcc9752e8bfd1a39.js",
+      "static/chunks/76.f3ecb5ce380aafa6.js"
+    ]
+  },
+  "app/page.tsx -> @/components/landingPage/FlipWordsDemo": {
+    "id": 5433,
+    "files": [
+      "static/chunks/433.2ce74ae191d258ea.js"
+    ]
+  },
+  "app/page.tsx -> @/components/landingPage/FloatingNavDemo": {
+    "id": 42288,
+    "files": [
+      "static/chunks/ee560e2c.71a96e4b3fbbc907.js",
+      "static/chunks/648.fcc9752e8bfd1a39.js",
+      "static/chunks/814.6db8fb07eef60b7e.js",
+      "static/chunks/288.23f1e0d257be4000.js"
+    ]
+  },
+  "app/page.tsx -> @/components/landingPage/GoogleGeminiEffectDemo": {
+    "id": 43718,
+    "files": [
+      "static/chunks/344.3fb38560aa81783d.js",
+      "static/chunks/718.d9f0c75b2e3fb561.js"
+    ]
+  },
+  "app/page.tsx -> @/components/landingPage/InfiniteMovingCardsDemo": {
+    "id": 4929,
+    "files": [
+      "static/chunks/929.07f0c37afd64bf14.js"
+    ]
+  },
+  "app/page.tsx -> @/components/landingPage/TimelineDemo": {
+    "id": 40813,
+    "files": [
+      "static/chunks/0e5ce63c.3c1b4f7c7c0c3e0f.js",
+      "static/chunks/648.fcc9752e8bfd1a39.js",
+      "static/chunks/45.453793a8c5e3d7fe.js",
+      "static/chunks/813.fc78f2a2a3798124.js"
+    ]
+  },
+  "app/page.tsx -> @/components/landingPage/WobbleCardDemo": {
+    "id": 60665,
+    "files": [
+      "static/chunks/648.fcc9752e8bfd1a39.js",
+      "static/chunks/665.3a8a9f0640771c80.js"
+    ]
+  },
+  "app/page.tsx -> @/components/ui/lamp": {
+    "id": 43833,
+    "files": [
+      "static/chunks/b536a0f1.561804734607a2a4.js",
+      "static/chunks/495.0ecfe61e29ec88f6.js",
+      "static/chunks/833.c411b1ed4402a9ba.js"
+    ]
+  }
+}
